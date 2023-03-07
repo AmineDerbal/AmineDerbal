@@ -39,9 +39,9 @@
 
 </p>
 
-![Amine Derbal stats](https://github-readme-stats-aminederbal.vercel.app/api?username=AmineDerbal&show_icons=true&theme=buefy&bg_color=faf5fa)
+![Amine Derbal stats](https://github-readme-stats-eight-eta-58.vercel.app/api?username=AmineDerbal&show_icons=true&theme=buefy&bg_color=faf5fa)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmineDerbal&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-aminederbal.vercel.app/api/top-langs/?username=AmineDerbal&layout=compact&theme=vision-friendly-dark)](https://github.com/AmineDerbal/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-eta-58.vercel.app/api/top-langs/?username=AmineDerbal&layout=compact&theme=vision-friendly-dark)](https://github.com/AmineDerbal/github-readme-stats)
 
 # Show your support! ⭐
 
