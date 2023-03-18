@@ -39,11 +39,17 @@
 
 </p>
 
+# 📊 GitHub Stats:
 [![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineDerbal&show_icons=true&theme=radical)](https://github.com/AmineDerbal/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmineDerbal&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineDerbal&show_icons=true&theme=buefy&bg_color=faf5fa&layout=compact)](https://github.com/AmineDerbal/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmineDerbal&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # Show your support! ⭐
 
