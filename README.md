@@ -54,3 +54,9 @@
 # Show your support! ⭐
 
 If you Like any of my projects, please give it a ⭐ Thank you.
+
+<div align="end">
+<p><b>Visitors Count</b></p>  
+<img src="https://profile-counter.glitch.me/{AmineDerbal}/count.svg" />
+</div>
+<!-- ?
