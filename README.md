@@ -12,7 +12,7 @@
 # A little bit about me
 
 - 🔭 I’ve recently graduated from Microverse an Online Training School.
-- 🤓 Currently learning TypeScript, and Python.
+- 🤓 Currently learning TypeScript, and PrismaJs.
 - 👯 I’m always looking to collaborate on new projects.
 - 📫 You can reach me at aminedoran31@gmail.com | aminederbal@yahoo.com
 - ⚡ I like 💻: Programming | 🎮 Video Games | 📖 Fan fictions
