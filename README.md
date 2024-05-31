@@ -43,6 +43,7 @@
    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" /> </a>
   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> </a>
   <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> </a>
